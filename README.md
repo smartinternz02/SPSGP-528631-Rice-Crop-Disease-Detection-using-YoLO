@@ -11,16 +11,9 @@ This, in turn, enables informed decision-making, leading to timely interventions
 Ultimately, the YOLO project's impact extends beyond the agricultural field. 
 Its applications hold the potential to reshape how we approach food security, sustainable practices, and technological advancements in modern agriculture. 
 By leveraging YOLO's capabilities for rice crop disease prediction, we embark on a journey towards healthier crops, increased agricultural productivity, and a more resilient and prosperous farming future.
-We have three folders of images in the project
 
-Training images dataset with labeling 
+We have three folders of images in the project
+Training images dataset with labeling (Microsoft Vott tool is used for labeling) 
 Testing images without labeling
 After completion(running) of the detector.py file the Test_Image_Detection_Results file(This is the output of the project) gets created
 
-The following are the links for images folders:
-
-This link is for the training images folder (https://drive.google.com/drive/folders/1OLJ3_zEpxCgWSV80vUalXS6qna4VPTHx?usp=sharing)
-
-This link is for the testing images folder (https://drive.google.com/drive/folders/1_IowjWRA7yoAMLqccr1QRU1aUhhfAcgc?usp=drive_link)
-
-This link is for the Test_Image_Detection_Results folder (https://drive.google.com/drive/folders/1uE0JWOUX63iPwZXzPk_FHCaVlcpQPeqA?usp=drive_link)
