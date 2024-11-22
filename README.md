@@ -13,7 +13,7 @@ Its applications hold the potential to reshape how we approach food security, su
 By leveraging YOLO's capabilities for rice crop disease prediction, we embark on a journey towards healthier crops, increased agricultural productivity, and a more resilient and prosperous farming future.
 
 We have three folders of images in the project
-Training images dataset with labeling (Microsoft Vott tool is used for labeling) 
-Testing images without labeling
-After completion(running) of the detector.py file the Test_Image_Detection_Results file(This is the output of the project) gets created
+  a. Training images dataset with labeling (Microsoft Vott tool is used for labeling) 
+  b. Testing images without labeling
+  c. After completion(running) of the detector.py file the Test_Image_Detection_Results file(This is the output of the project) gets created
 
